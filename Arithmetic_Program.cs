@@ -46,7 +46,7 @@ using System.Text;
 using System.Xml;
 using System.Xml.XPath;
 
-namespace Arithmetic_Program
+namespace N_Digits
 {
     class Program
     {
